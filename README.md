@@ -4,7 +4,8 @@
 https://youtu.be/tr1pCJqDPAE
 
 ### Result of the event
-https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/Artwork
+Video: https://youtu.be/n6uqpYgrE2E
+Image: https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/Artwork
 
 ### What did we learn:
 https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
@@ -14,14 +15,15 @@ https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
 ### Start of the Jam:
 https://youtu.be/YT465iIMdhI
 
+### Workshop on A-Painter by VR Human:
+(WIP)
+### Vladimir Illic, drawing:
+(WIP)
 ### Raphael Villegas, drawing:
 (WIP)
 
-### Vladimir Illic, drawing:
-(WIP)
 
-### Workshop on A-Painter by VR Human:
-(WIP)
 
-### Trailer of the painting jam:
-(WIP)
+### Export introduction
+From the Mons VR Hackathon:
+https://www.youtube.com/watch?v=olmle8u1zGQ
