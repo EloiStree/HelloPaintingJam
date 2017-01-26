@@ -2,7 +2,8 @@
 
 ## What is the Painting Jam:
 https://youtu.be/tr1pCJqDPAE  
-![alt tag](https://github.com/JamsCenter/PaintingJam_EditionJan2017/r/DisplayPaintingJamFirstEdition.jpg)  
+![Image of Painting Jam](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/DisplayPaintingJamFirstEdition.jpg)  
+
 Registration Link:  
 https://vr-painting-jam.eventbrite.fr/
 
@@ -22,7 +23,7 @@ https://youtu.be/YT465iIMdhI
 https://youtu.be/Vd5eSO0lbjk
 
 ### Vladimir Illic, drawing:
-(WIP)
+https://youtu.be/wIUZxDcjv7E
 ### Raphael Villegas, drawing:
 https://youtu.be/vpBRFjyqSRA
 
