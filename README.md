@@ -1,8 +1,8 @@
 # VR Painting Jam #1
 
 ## What is the Painting Jam:
+<a href="https://youtu.be/tr1pCJqDPAE">![Image of Painting Jam](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/DisplayPaintingJamFirstEdition.jpg)  </a>
 https://youtu.be/tr1pCJqDPAE  
-![Image of Painting Jam](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/DisplayPaintingJamFirstEdition.jpg)  
 
 Registration Link:  
 https://vr-painting-jam.eventbrite.fr/
