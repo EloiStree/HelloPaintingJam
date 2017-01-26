@@ -16,11 +16,12 @@ https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
 https://youtu.be/YT465iIMdhI
 
 ### Workshop on A-Painter by VR Human:
-(WIP)
+https://youtu.be/Vd5eSO0lbjk
+
 ### Vladimir Illic, drawing:
 (WIP)
 ### Raphael Villegas, drawing:
-(WIP)
+https://youtu.be/vpBRFjyqSRA
 
 
 
