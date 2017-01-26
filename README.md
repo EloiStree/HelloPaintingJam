@@ -1,10 +1,13 @@
 # VR Painting Jam #1
 
 ## What is the Painting Jam:
-https://youtu.be/tr1pCJqDPAE
+https://youtu.be/tr1pCJqDPAE  
+![alt tag](https://github.com/JamsCenter/PaintingJam_EditionJan2017/r/DisplayPaintingJamFirstEdition.jpg)  
+Registration Link:  
+https://vr-painting-jam.eventbrite.fr/
 
 ### Result of the event
-Video: https://youtu.be/n6uqpYgrE2E
+Video: https://youtu.be/n6uqpYgrE2E  
 Image: https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/Artwork
 
 ### What did we learn:
@@ -26,5 +29,5 @@ https://youtu.be/vpBRFjyqSRA
 
 
 ### Export introduction
-From the Mons VR Hackathon:
+From the Mons VR Hackathon:  
 https://www.youtube.com/watch?v=olmle8u1zGQ
