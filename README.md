@@ -1,4 +1,4 @@
-# VR Painting Jam #1
+# VR Painting Jam 
 ![DisplayPaintingJamFirstEdition](https://github.com/user-attachments/assets/0d0b16c3-1613-446e-9271-d774361688a3)
 
 ![participants360](https://github.com/user-attachments/assets/c31471be-15c6-4a3f-af7f-7403c0773877)
@@ -16,6 +16,12 @@ Trailer: https://youtu.be/tr1pCJqDPAE
 ![image](https://github.com/user-attachments/assets/3b55202f-be4e-4c61-b227-b1a941f01b77)
 
 
+
+
+![paintingJamTeam](https://github.com/user-attachments/assets/8ff84c91-c308-427d-8664-9cf5204bfe84)
+
+
+
 ### What did we learn ?
 https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
 
@@ -29,12 +35,7 @@ https://youtu.be/Vd5eSO0lbjk
 ### Vladimir Illic, drawing
 https://youtu.be/wIUZxDcjv7E
 ### Raphael Villegas, drawing
-
-
-![paintingJamTeam](https://github.com/user-attachments/assets/8ff84c91-c308-427d-8664-9cf5204bfe84)
-
 https://youtu.be/vpBRFjyqSRA
 ### End of the jam
 https://youtu.be/n6uqpYgrE2E
-
 
