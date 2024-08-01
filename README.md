@@ -1,21 +1,19 @@
 # VR Painting Jam #1
-
-## What is the Painting Jam ?
-
-<a href="https://youtu.be/n6uqpYgrE2E">![VR PAITING JAM: 1](https://camo.githubusercontent.com/a47b0500d8d2ff77ca0b3ba34a214516de4aa7fc/68747470733a2f2f766174656c6965722e6e65742f4d7944656d6f2f417061696e746572506879736963732f70726576696577732f747261696c65722e6a7067)</a>
-
-### What was the idea ?
-<a href="https://theta360.com/s/dxQIY34AXtQMmtF3NnrRY5VKa">![VR PAITING JAM: 1](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/participants360.JPG)</a>  
 Information: https://vr-painting-jam.eventbrite.fr/  
 Trailer: https://youtu.be/tr1pCJqDPAE  
+![15777024_620268604825011_8504964484260589657_o](https://github.com/user-attachments/assets/7ac91a2f-d4d2-4734-8b5f-cbea38365880)
+
+![aimetribolet-Quill-Unity](https://github.com/user-attachments/assets/628e3e58-0063-4925-8b7a-5deee68f3077)
+![FB_IMG_1505042882859](https://github.com/user-attachments/assets/91b5e6d4-751b-4cfa-9d2b-52665213f06c)
 
 
+![FB_IMG_1505042891445](https://github.com/user-attachments/assets/41cb4767-4d2b-46d8-b93f-c140b778fdee)
+![image](https://github.com/user-attachments/assets/d13d8cb8-0448-4051-b104-e768abcbd470)
+![image](https://github.com/user-attachments/assets/3b55202f-be4e-4c61-b227-b1a941f01b77)
 
 
 ### What did we learn ?
 https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
-
-
 
 ## Video of the event
 ### Trailer
@@ -32,16 +30,3 @@ https://youtu.be/vpBRFjyqSRA
 https://youtu.be/n6uqpYgrE2E
 
 
-
-
-## Who we are ?
-![Image of the organizer](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/paintingJamTeam.jpg)  
-- http://jams.center/
-- https://vrlab-brussels.info/wiki/
-- http://www.vr-human.com/
-
-
-### Any question ?
- - Strée Eloi
- - jams.center@gmail.com
- - +32 (0) 488 757 684
