@@ -15,8 +15,6 @@ Trailer: https://youtu.be/tr1pCJqDPAE
 ### What did we learn ?
 https://github.com/JamsCenter/PaintingJam_EditionJan2017/wiki/WriteUp
 
-
-
 ## Video of the event
 ### Trailer
 https://youtu.be/tr1pCJqDPAE  
@@ -32,16 +30,3 @@ https://youtu.be/vpBRFjyqSRA
 https://youtu.be/n6uqpYgrE2E
 
 
-
-
-## Who we are ?
-![Image of the organizer](https://github.com/JamsCenter/PaintingJam_EditionJan2017/blob/master/r/paintingJamTeam.jpg)  
-- http://jams.center/
-- https://vrlab-brussels.info/wiki/
-- http://www.vr-human.com/
-
-
-### Any question ?
- - Strée Eloi
- - jams.center@gmail.com
- - +32 (0) 488 757 684
