@@ -1,3 +1,5 @@
+__[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
+
 # VR Painting Jam 
 ![DisplayPaintingJamFirstEdition](https://github.com/user-attachments/assets/0d0b16c3-1613-446e-9271-d774361688a3)
 
